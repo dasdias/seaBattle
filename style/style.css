@@ -3,7 +3,9 @@ body {
     font-size: 18px;
     text-transform: uppercase;
 }
-
+#record {
+  cursor: pointer;
+}
 main {
     display: flex;
     justify-content: center;
